@@ -1,0 +1,24 @@
+Start testing: Jun 17 20:24 RTZ 2 (çèìà)
+----------------------------------------------------------
+1/1 Testing: NumberConverterTests
+1/1 Test: NumberConverterTests
+Command: "C:/Users/Guest/Desktop/project2/build/tests.exe"
+Directory: C:/Users/Guest/Desktop/project2/build
+"NumberConverterTests" start time: Jun 17 20:24 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+[doctest] doctest version is "2.5.0"
+[doctest] run with "--help" for options
+===============================================================================
+[doctest] test cases: 7 | 7 passed | 0 failed | 0 skipped
+[doctest] assertions: 8 | 8 passed | 0 failed |
+[doctest] Status: SUCCESS!
+<end of output>
+Test time =   0.08 sec
+----------------------------------------------------------
+Test Passed.
+"NumberConverterTests" end time: Jun 17 20:24 RTZ 2 (çèìà)
+"NumberConverterTests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Jun 17 20:24 RTZ 2 (çèìà)

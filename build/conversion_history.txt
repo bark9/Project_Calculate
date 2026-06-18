@@ -1,0 +1,5 @@
+2026-06-16 20:36:09 | 234 (base 10) -> 11101010 (base 2)
+>4Partial loss of significance (PLOSS)* | 12 (base 10) -> 1100 (base 2)
+  | rtial loss of significance (PLOSS)base ) | 2 (base 10) -> 10 (base 2)
+ 16.6.2026 21:11:45 | 421 (base 10) -> 110100101 (base 2)
+ 16.6.2026 21:57:32 | 435 (base 10) -> 663 (base 8)

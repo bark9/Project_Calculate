@@ -1,0 +1,122 @@
+{
+  "tests": 16,
+  "name": "AllTests",
+  "testsuites": [
+    {
+      "name": "BaseValidatorTest",
+      "tests": 2,
+      "testsuite": [
+        {
+          "name": "IsValidBasePositive",
+          "file": "C:\/Users\/Guest\/Desktop\/project2\/test.cpp",
+          "line": 6
+        },
+        {
+          "name": "IsValidBaseNegative",
+          "file": "C:\/Users\/Guest\/Desktop\/project2\/test.cpp",
+          "line": 11
+        }
+      ]
+    },
+    {
+      "name": "NumberValidatorTest",
+      "tests": 6,
+      "testsuite": [
+        {
+          "name": "IsValidForBasePositive",
+          "file": "C:\/Users\/Guest\/Desktop\/project2\/test.cpp",
+          "line": 18
+        },
+        {
+          "name": "IsValidForBaseNegative",
+          "file": "C:\/Users\/Guest\/Desktop\/project2\/test.cpp",
+          "line": 24
+        },
+        {
+          "name": "NormalizePositive",
+          "file": "C:\/Users\/Guest\/Desktop\/project2\/test.cpp",
+          "line": 30
+        },
+        {
+          "name": "NormalizeNegative",
+          "file": "C:\/Users\/Guest\/Desktop\/project2\/test.cpp",
+          "line": 35
+        },
+        {
+          "name": "HasInvalidCharactersPositive",
+          "file": "C:\/Users\/Guest\/Desktop\/project2\/test.cpp",
+          "line": 42
+        },
+        {
+          "name": "HasInvalidCharactersNegative",
+          "file": "C:\/Users\/Guest\/Desktop\/project2\/test.cpp",
+          "line": 48
+        }
+      ]
+    },
+    {
+      "name": "BaseConverterTest",
+      "tests": 2,
+      "testsuite": [
+        {
+          "name": "ConvertPositive",
+          "file": "C:\/Users\/Guest\/Desktop\/project2\/test.cpp",
+          "line": 55
+        },
+        {
+          "name": "ConvertNegative",
+          "file": "C:\/Users\/Guest\/Desktop\/project2\/test.cpp",
+          "line": 62
+        }
+      ]
+    },
+    {
+      "name": "HistoryEntryTest",
+      "tests": 2,
+      "testsuite": [
+        {
+          "name": "ToStringPositive",
+          "file": "C:\/Users\/Guest\/Desktop\/project2\/test.cpp",
+          "line": 76
+        },
+        {
+          "name": "GettersNegative",
+          "file": "C:\/Users\/Guest\/Desktop\/project2\/test.cpp",
+          "line": 82
+        }
+      ]
+    },
+    {
+      "name": "HistoryManagerTest",
+      "tests": 2,
+      "testsuite": [
+        {
+          "name": "AddAndSizePositive",
+          "file": "C:\/Users\/Guest\/Desktop\/project2\/test.cpp",
+          "line": 107
+        },
+        {
+          "name": "ClearAndEvictionNegative",
+          "file": "C:\/Users\/Guest\/Desktop\/project2\/test.cpp",
+          "line": 115
+        }
+      ]
+    },
+    {
+      "name": "TimestampProviderTest",
+      "tests": 2,
+      "testsuite": [
+        {
+          "name": "GetCurrentTimestampPositive",
+          "file": "C:\/Users\/Guest\/Desktop\/project2\/test.cpp",
+          "line": 128
+        },
+        {
+          "name": "GetCurrentTimestampNegative",
+          "file": "C:\/Users\/Guest\/Desktop\/project2\/test.cpp",
+          "line": 137
+        }
+      ]
+    }
+  ]
+}

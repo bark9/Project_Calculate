@@ -1,0 +1,18 @@
+BaseValidatorTest.IsValidBasePositive 2 0
+BaseValidatorTest.IsValidBaseNegative 2 0
+NumberValidatorTest.IsValidForBasePositive 2 0
+NumberValidatorTest.IsValidForBaseNegative 2 0
+NumberValidatorTest.NormalizePositive 2 0
+NumberValidatorTest.NormalizeNegative 2 0
+NumberValidatorTest.HasInvalidCharactersPositive 2 0
+NumberValidatorTest.HasInvalidCharactersNegative 2 0
+BaseConverterTest.ConvertPositive 2 0
+BaseConverterTest.ConvertNegative 2 0
+HistoryEntryTest.ToStringPositive 2 0
+HistoryEntryTest.GettersNegative 2 0
+HistoryManagerTest.AddAndSizePositive 2 0
+HistoryManagerTest.ClearAndEvictionNegative 2 0
+TimestampProviderTest.GetCurrentTimestampPositive 2 0
+TimestampProviderTest.GetCurrentTimestampNegative 2 0
+NumberConverterTests 5 0.015043
+---

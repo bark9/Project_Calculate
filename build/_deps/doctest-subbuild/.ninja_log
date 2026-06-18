@@ -1,0 +1,21 @@
+# ninja log v7
+2	239	8034084355125910	doctest-populate-prefix/src/doctest-populate-stamp/doctest-populate-mkdir	c474f10ba4bd0066
+2	239	8034084355125910	C:/Users/Guest/Desktop/project2/build/_deps/doctest-subbuild/doctest-populate-prefix/src/doctest-populate-stamp/doctest-populate-mkdir	c474f10ba4bd0066
+2	8857	8034096595031721	doctest-populate-prefix/src/doctest-populate-stamp/doctest-populate-download	ff86e6f9b66658aa
+2	8857	8034096595031721	C:/Users/Guest/Desktop/project2/build/_deps/doctest-subbuild/doctest-populate-prefix/src/doctest-populate-stamp/doctest-populate-download	ff86e6f9b66658aa
+2	419	8034099337902467	doctest-populate-prefix/src/doctest-populate-stamp/doctest-populate-update	8a52ca3d46cd276c
+2	419	8034099337902467	C:/Users/Guest/Desktop/project2/build/_deps/doctest-subbuild/doctest-populate-prefix/src/doctest-populate-stamp/doctest-populate-update	8a52ca3d46cd276c
+420	714	8034099344562968	doctest-populate-prefix/src/doctest-populate-stamp/doctest-populate-patch	a0c0f36636465f12
+420	714	8034099344562968	C:/Users/Guest/Desktop/project2/build/_deps/doctest-subbuild/doctest-populate-prefix/src/doctest-populate-stamp/doctest-populate-patch	a0c0f36636465f12
+714	1056	8034099347977879	doctest-populate-prefix/src/doctest-populate-stamp/doctest-populate-configure	4618f30d91285ab3
+714	1056	8034099347977879	C:/Users/Guest/Desktop/project2/build/_deps/doctest-subbuild/doctest-populate-prefix/src/doctest-populate-stamp/doctest-populate-configure	4618f30d91285ab3
+1057	1381	8034099351120466	doctest-populate-prefix/src/doctest-populate-stamp/doctest-populate-build	ad94191d3206bbcf
+1057	1381	8034099351120466	C:/Users/Guest/Desktop/project2/build/_deps/doctest-subbuild/doctest-populate-prefix/src/doctest-populate-stamp/doctest-populate-build	ad94191d3206bbcf
+1381	1647	8034099353960294	doctest-populate-prefix/src/doctest-populate-stamp/doctest-populate-install	6261a776f2708024
+1381	1647	8034099353960294	C:/Users/Guest/Desktop/project2/build/_deps/doctest-subbuild/doctest-populate-prefix/src/doctest-populate-stamp/doctest-populate-install	6261a776f2708024
+1648	1943	8034099356842336	doctest-populate-prefix/src/doctest-populate-stamp/doctest-populate-test	e0f1c3757ad7e796
+1648	1943	8034099356842336	C:/Users/Guest/Desktop/project2/build/_deps/doctest-subbuild/doctest-populate-prefix/src/doctest-populate-stamp/doctest-populate-test	e0f1c3757ad7e796
+1944	2335	8034099360846833	CMakeFiles/doctest-populate-complete	84e98ccbdd4e7166
+1944	2335	8034099360846833	doctest-populate-prefix/src/doctest-populate-stamp/doctest-populate-done	84e98ccbdd4e7166
+1944	2335	8034099360846833	C:/Users/Guest/Desktop/project2/build/_deps/doctest-subbuild/CMakeFiles/doctest-populate-complete	84e98ccbdd4e7166
+1944	2335	8034099360846833	C:/Users/Guest/Desktop/project2/build/_deps/doctest-subbuild/doctest-populate-prefix/src/doctest-populate-stamp/doctest-populate-done	84e98ccbdd4e7166
